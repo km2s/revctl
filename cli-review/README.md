@@ -48,7 +48,7 @@ APPROVE — Clean fix, no concerns.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/revctl.git
+git clone https://github.com/km2s/revctl.git
 cd revctl
 
 # Install (creates the `revctl` command globally)
